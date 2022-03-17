@@ -30,5 +30,4 @@ func loadTemplates() {
 func main() {
 	fmt.Println("TODO: add some features.")
 	loadTemplates()
-
 }
